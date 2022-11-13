@@ -1,1 +1,3 @@
-# Calculate_IT
+# Calculate_IT ( A simple calculator )
+
+<img src="img.png">
