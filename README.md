@@ -1,8 +1,9 @@
 # Calculate_IT ( A simple calculator )
 
-Technologies used - 
-HTML
-CSS
+<h2>Technologies used - </h2><br>
+HTML<br>
+CSS <br>
 JavaScript
+
 
 <img src="img.png">
